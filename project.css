@@ -1,0 +1,20 @@
+/* Style for hover button */
+#hoverButton {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style for counter paragraph */
+#counter {
+    font-size: 18px;
+}
+
+/* Style for container div */
+#container {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
